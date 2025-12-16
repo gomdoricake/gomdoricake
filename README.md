@@ -21,6 +21,8 @@ My expertise lies in comprehensive full-stack development, cloud deployment, and
 | **External Integrations** | `OpenAI API` / `Google OAuth` / `WordPress API` |
 | **Database** | `PostgreSQL` |
 
+
+
 ---
 
 ## Featured Project: Comprehensive Capstone Service
@@ -36,6 +38,17 @@ This project showcases my ability to manage complex architecture, implement DevO
 [ScoopADive Repository Link](https://github.com/ScoopADive/Backend)
 
 ---
+
+## Community & Leadership
+
+* **GDGoC (Google Developer Groups on Campus) Organizer (GDGoC - Seoul National University of Science and Technology)** Actively involved in organizing and leading local developer events, workshops, and study groups focused on Google technologies. This experience highlights my leadership, event management, and networking skills within the tech community.
+
+[GDGoC SeoulTech](https://thin-friday-3c9.notion.site/GDG-on-Campus-Seoultech-24-25-11ad3a78a0fd80f9b3dde9d8aa816dd4)
+
+* **GDSC (Google Developer Student Clubs) Core Member:** Contributed actively to the club's core operations, including planning and executing tech sessions, workshops, and collaborative coding projects for university students. This demonstrates strong teamwork, technical mentorship, and organizational abilities.
+
+[GDSC SeoulTech](https://github.com/user-attachments/files/18237327/GDSC.2023-24.Certificates.for.Core.Member.pdf)
+
 
 ## Let's Connect
 
