@@ -48,13 +48,3 @@ This project showcases my ability to manage complex architecture, implement DevO
 * **GDSC (Google Developer Student Clubs) Core Member:** Contributed actively to the club's core operations, including planning and executing tech sessions, workshops, and collaborative coding projects for university students. This demonstrates strong teamwork, technical mentorship, and organizational abilities.
 
 [GDSC SeoulTech](https://github.com/user-attachments/files/18237327/GDSC.2023-24.Certificates.for.Core.Member.pdf)
-
-
-## Let's Connect
-
-I am open to discussions about new technologies, potential collaborations, and opportunities, particularly those leading to my professional transition to the Australian tech landscape.
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [LinkedIn Profile Link](www.linkedin.com/in/hyojeong-jun-087846248) |
-| **Email** | junn.hyojeong@gmail.com |
