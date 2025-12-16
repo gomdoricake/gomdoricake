@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hello there! I'm Jun.
 
-<!--
-**gomdoricake/gomdoricake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent **Computer Science Graduate** from South Korea and a passionate **Full-Stack Developer** focused on building reliable, scalable, and optimized web services.
 
-Here are some ideas to get you started:
+I specialize in integrating modern **DevOps practices (Docker, CI/CD)** with the **Python Django** ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Future Focus:** I am currently based in South Korea, but I am actively preparing to transition my career to **Australia** within the next few years, seeking opportunities to contribute to global and innovative development teams.
+
+---
+
+## Core Technical Stack
+
+My expertise lies in comprehensive full-stack development, cloud deployment, and system optimization.
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Backend & Framework** | `Python Django` / `RESTful APIs` |
+| **Cloud & Deployment** | `Docker` / `AWS Lightsail` / `Nginx` |
+| **DevOps & CI/CD** | `GitHub Actions (CI/CD)` / `Git` |
+| **Optimization & Caching** | `Redis` / `AWS CloudFront` / `AWS S3` |
+| **External Integrations** | `OpenAI API` / `Google OAuth` / `WordPress API` |
+| **Database** | `PostgreSQL` |
+
+---
+
+## Featured Project: Comprehensive Capstone Service
+
+This project showcases my ability to manage complex architecture, implement DevOps, and optimize performance.
+
+### Project: ScoopADive
+* **Architecture:** Implemented a containerized environment using **Docker**, managing separate containers for the Django web application, Nginx reverse proxy, and database.
+* **Deployment:** Designed and executed a seamless **CI/CD pipeline using GitHub Actions** for automated build, testing, and deployment onto an **AWS Lightsail** instance.
+* **Key Functionality:** Central features were enabled by integrating multiple external services, including the **OpenAI API** for AI-driven tasks and the **Fishial.ai API** for specialized domain data.
+* **Performance:** Achieved significant system optimization by utilizing **Redis** for in-memory caching and configuring **AWS CloudFront/S3** for efficient, low-latency static content delivery.
+
+[ScoopADive Repository Link](https://github.com/ScoopADive/Backend)
+
+---
+
+## Let's Connect
+
+I am open to discussions about new technologies, potential collaborations, and opportunities, particularly those leading to my professional transition to the Australian tech landscape.
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [LinkedIn Profile Link](www.linkedin.com/in/hyojeong-jun-087846248) |
+| **Email** | junn.hyojeong@gmail.com |
