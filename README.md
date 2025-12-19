@@ -4,8 +4,6 @@ I am a recent **Computer Science Graduate** from South Korea and a passionate **
 
 I specialize in integrating modern **DevOps practices (Docker, CI/CD)** with the **Python Django** ecosystem.
 
-**Future Focus:** I am currently based in South Korea, but I am actively preparing to transition my career to **Australia** within the next few years, seeking opportunities to contribute to global and innovative development teams.
-
 ---
 
 ## Core Technical Stack
