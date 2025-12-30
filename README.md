@@ -1,48 +1,85 @@
-# Hello there! I'm Jun.
+# Hi there, I'm Jun (gomdoricake)! 👋
 
-I am a recent **Computer Science Graduate** from South Korea and a passionate **Full-Stack Developer** focused on building reliable, scalable, and optimized web services.
+I am a **Computer Science graduate** from Seoul, currently based in Australia 🇦🇺. 
+I enjoy building web applications with **Python Django** and automating deployment processes to make things run smoothly.
 
-I specialize in integrating modern **DevOps practices (Docker, CI/CD)** with the **Python Django** ecosystem.
+---
+### Education 🎓
+
+Bachelor of Computer Science, **Seoul National University of Science and Technology (SeoulTech)** (Graduated Feb 2026)
+
+### Tech Stack
+
+**Backend**   
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infrastructure**   
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**DevOps**   
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Integrations & Tools**   
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
-## Core Technical Stack
+### What I've Been Working On (FullStack + DevOps & Optimization)
 
-My expertise lies in comprehensive full-stack development, cloud deployment, and system optimization.
+#### 1. AI-Powered All-in-One Scuba Diving Platform 🤿
 
-| Category | Key Technologies |
-| :--- | :--- |
-| **Backend & Framework** | `Python Django` / `RESTful APIs` |
-| **Cloud & Deployment** | `Docker` / `AWS Lightsail` / `Nginx` |
-| **DevOps & CI/CD** | `GitHub Actions (CI/CD)` / `Git` |
-| **Optimization & Caching** | `Redis` / `AWS CloudFront` / `AWS S3` |
-| **External Integrations** | `OpenAI API` / `Google OAuth` / `WordPress API` |
-| **Database** | `PostgreSQL` |
+- Tech: Docker, Nginx, AWS, OpenAI
+- Full-stack AI service for scuba divers.
+- Automated CI/CD pipeline via GitHub Actions.
+  
+> **Repository**
+> [**ScoopADive**](https://github.com/ScoopADive/Backend)
 
+#### 2. Performance Optimization (A+) ⚡
 
+Focus: Infrastructure Scaling & Bottleneck Removal
+
+- S3 + CloudFront: Static I/O load balancing.
+- Redis + Worker Tuning: Optimized server throughput.
+- Multi-processing: Parallelized Fishial API requests.
+
+> **Technical Assets (KR)**
+> - 📊 [**Presentation Slides**](https://github.com/user-attachments/files/24376613/default.pdf) — *Architecture overview & key strategies*
+> - 📑 [**Technical Report**](https://github.com/user-attachments/files/24376622/default.zip) — *Deep dive into performance optimization metrics*
+---
+
+### Community & Leadership 🌟
+
+[![GDGoC Leader](https://img.shields.io/badge/GDGoC-Leader_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](링크)
+
+> **GDGoC (Google Developer Groups on Campus):** Organizer
+
+> [**Check out the Events!**](https://thin-friday-3c9.notion.site/GDG-on-Campus-Seoultech-24-25-11ad3a78a0fd80f9b3dde9d8aa816dd4)  
+> [**Certificate.pdf**](https://github.com/user-attachments/files/24376695/Hyojeong.Jun.pdf)  
+
+  
+> **GDSC (Google Developer Student Clubs):** Core Member  
+> [**GDSC.2023-24.Certificates.for.Core.Member.pdf**](https://github.com/user-attachments/files/24376498/GDSC.2023-24.Certificates.for.Core.Member.3.pdf)  
+
+*I enjoy sharing knowledge and growing together with other developers.*
 
 ---
 
-## Featured Project: Comprehensive Capstone Service
+### Contact Me ☎️
 
-This project showcases my ability to manage complex architecture, implement DevOps, and optimize performance.
 
-### Project: ScoopADive
-* **Architecture:** Implemented a containerized environment using **Docker**, managing separate containers for the Django web application, Nginx reverse proxy, and database.
-* **Deployment:** Designed and executed a seamless **CI/CD pipeline using GitHub Actions** for automated build, testing, and deployment onto an **AWS Lightsail** instance.
-* **Key Functionality:** Central features were enabled by integrating multiple external services, including the **OpenAI API** for AI-driven tasks and the **Fishial.ai API** for specialized domain data.
-* **Performance:** Achieved significant system optimization by utilizing **Redis** for in-memory caching and configuring **AWS CloudFront/S3** for efficient, low-latency static content delivery.
+> **Hashnode**
+> [**@gomdoricake**](https://hashnode.com/@gomdoricake)   
 
-[ScoopADive Repository Link](https://github.com/ScoopADive/Backend)
+> **LinkedIn**
+> [**Hyojeong Jun**](https://www.linkedin.com/in/hyojeong-jun-087846248)  
 
----
-
-## Community & Leadership
-
-* **GDGoC (Google Developer Groups on Campus) Organizer (GDGoC - Seoul National University of Science and Technology)** Actively involved in organizing and leading local developer events, workshops, and study groups focused on Google technologies. This experience highlights my leadership, event management, and networking skills within the tech community.
-
-[GDGoC SeoulTech](https://thin-friday-3c9.notion.site/GDG-on-Campus-Seoultech-24-25-11ad3a78a0fd80f9b3dde9d8aa816dd4)
-
-* **GDSC (Google Developer Student Clubs) Core Member:** Contributed actively to the club's core operations, including planning and executing tech sessions, workshops, and collaborative coding projects for university students. This demonstrates strong teamwork, technical mentorship, and organizational abilities.
-
-[GDSC SeoulTech](https://github.com/user-attachments/files/18237327/GDSC.2023-24.Certificates.for.Core.Member.pdf)
+> **Gmail**
+> junn.hyojeong@gmail.com
