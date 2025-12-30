@@ -82,4 +82,4 @@ Focus: Infrastructure Scaling & Bottleneck Removal
 > [**Hyojeong Jun**](https://www.linkedin.com/in/hyojeong-jun-087846248)  
 
 > **Gmail**
-> junn.hyojeong@gmail.com
+> **junn.hyojeong@gmail.com**
