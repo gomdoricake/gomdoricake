@@ -1,37 +1,37 @@
 # Hi there, I'm Jun (gomdoricake)! 👋
 
-I am a **Computer Science graduate** from Seoul, currently based in Australia 🇦🇺. 
-I enjoy building web applications with **Python Django** and automating deployment processes to make things run smoothly.
+
+I am a **Computer Science & Engineering graduate** from Seoul 🇰🇷, currently based in Australia 🇦🇺. 
 
 ---
-### Education 🎓
+## Education 🎓
 
-Bachelor of Computer Science, **Seoul National University of Science and Technology (SeoulTech)** (Graduated Feb 2026)
+**Seoul National University of Science and Technology (SeoulTech)** - Graduated Feb 2026
+* B.S. in Computer Science & Engineering
 
-### Tech Stack
+---
+<div align="center">
 
-**Backend**   
+## 🛠 Tech Stack
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Infrastructure**   
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**DevOps**   
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Integrations & Tools**   
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+</div>
 
 ---
-
-### What I've Been Working On (FullStack + DevOps & Optimization)
+## What I've Been Working On (FullStack + DevOps & Optimization)
 
 #### 1. AI-Powered All-in-One Scuba Diving Platform 🤿
 
@@ -55,7 +55,7 @@ Focus: Infrastructure Scaling & Bottleneck Removal
 > - 📑 [**Technical Report**](https://github.com/user-attachments/files/24376622/default.zip) — *Deep dive into performance optimization metrics*
 ---
 
-### Community & Leadership 🌟
+## Community & Leadership 🌟
 
 [![GDGoC Leader](https://img.shields.io/badge/GDGoC-Leader_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](링크)
 
@@ -72,13 +72,13 @@ Focus: Infrastructure Scaling & Bottleneck Removal
 
 ---
 
-### Problem Solving
+## Problem Solving
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnie082)
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=gomdoricake)
 
 
-### Contact Me ☎️
+## Contact Me ☎️
 
 
 > **Hashnode**
