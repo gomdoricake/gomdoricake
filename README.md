@@ -72,6 +72,12 @@ Focus: Infrastructure Scaling & Bottleneck Removal
 
 ---
 
+### Problem Solving
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junnie082)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=gomdoricake)
+
+
 ### Contact Me ☎️
 
 
