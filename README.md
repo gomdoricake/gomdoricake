@@ -50,9 +50,9 @@ Focus: Infrastructure Scaling & Bottleneck Removal
 - Redis + Worker Tuning: Optimized server throughput.
 - Multi-processing: Parallelized Fishial API requests.
 
-> **Technical Assets (KR)**
+> **Technical Assets**
 > - 📊 [**Presentation Slides**](https://github.com/user-attachments/files/24716532/PERFORMANCE_OPTIMIZATION.pdf) — *Architecture overview & key strategies*
-> - 📑 [**Technical Report**](https://github.com/user-attachments/files/24376622/default.zip) — *Deep dive into performance optimization metrics*
+> - 📑 [**Technical Report(KR)**](https://github.com/user-attachments/files/24376622/default.zip) — *Deep dive into performance optimization metrics*
 ---
 
 
