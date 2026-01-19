@@ -1,8 +1,6 @@
 # Hi there, I'm Jun (gomdoricake)! 👋
 
 
-I am a **Computer Science & Engineering graduate** from Seoul 🇰🇷, currently based in Australia 🇦🇺. 
-
 ---
 ## Education 🎓
 
