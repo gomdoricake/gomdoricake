@@ -51,9 +51,11 @@ Focus: Infrastructure Scaling & Bottleneck Removal
 - Multi-processing: Parallelized Fishial API requests.
 
 > **Technical Assets (KR)**
-> - 📊 [**Presentation Slides**](https://github.com/user-attachments/files/24376613/default.pdf) — *Architecture overview & key strategies*
+> - 📊 [**Presentation Slides**](https://github.com/user-attachments/files/24716532/PERFORMANCE_OPTIMIZATION.pdf) — *Architecture overview & key strategies*
 > - 📑 [**Technical Report**](https://github.com/user-attachments/files/24376622/default.zip) — *Deep dive into performance optimization metrics*
 ---
+
+
 
 ## Community & Leadership 🌟
 
