@@ -62,7 +62,8 @@ Focus: Infrastructure Scaling & Bottleneck Removal
 > **GDGoC (Google Developer Groups on Campus):** Organizer
 
 > [**Check out the Events!**](https://thin-friday-3c9.notion.site/GDG-on-Campus-Seoultech-24-25-11ad3a78a0fd80f9b3dde9d8aa816dd4)  
-> [**Certificate.pdf**](https://github.com/user-attachments/files/24376695/Hyojeong.Jun.pdf)  
+> [**Certificate - Hyojeong Jun**](https://github.com/user-attachments/files/24376695/Hyojeong.Jun.pdf)  
+> [**CERTIFICATE OF COMPLETION**](https://github.com/user-attachments/files/24727159/C.E.R.T.I.F.I.C.A.T.E.O.F.C.O.M.P.L.E.T.I.O.N.pdf)
 
   
 > **GDSC (Google Developer Student Clubs):** Core Member  
